@@ -1,2 +1,2 @@
-# lua-projects
-Collection of lua projects
+# Lua Projects
+Collection of Lua projects
